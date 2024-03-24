@@ -1,5 +1,5 @@
 {
-    "name": "oro/doctrine-extensions",
+    "name": "monkameddle/doctrine-extensions",
     "type": "library",
     "description": "Doctrine Extensions for MySQL and PostgreSQL.",
     "homepage": "https://github.com/oroinc/doctrine-extensions/",
